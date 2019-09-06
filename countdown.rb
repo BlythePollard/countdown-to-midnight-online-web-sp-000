@@ -1,4 +1,4 @@
-x = 100
+x = 12
 
 def countdown(x)
   while x > 0
